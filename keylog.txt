@@ -1,0 +1,7 @@
+psatır[Key.space]bir[Key.space]
+[Key.enter]satır[Key.space]iki
+[Key.enter][Key.ctrl]c[Key.backspace][Key.down][Key.space][Key.space][Key.ctrl]v[Key.space][Key.shift_r]'git[Key.space][Key.backspace][Key.backspace][Key.backspace][Key.backspace]cd[Key.space]keylogger.py[Key.backspace][Key.backspace][Key.backspace]-project
+[Key.enter]ls
+[Key.enter]git[Key.space]a[Key.backspace]status
+[Key.enter]git[Key.space]add.[Key.backspace][Key.space].
+[Key.enter]
